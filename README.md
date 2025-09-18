@@ -3,7 +3,7 @@
 
 This repo is where I’m sharing the small Python scripts I’ve been creating as I learn and move from **manual QA into QA engineering**.  
 
-Right now I’m keeping it super simple — just using **variables, input, if/else, while loops, and for loops** — but even with the basics, I’m already building scripts that feel like real QA test cases. 
+Right now I’m keeping it super simple just using **variables, input, if/else, while loops, and for loops**, but even with the basics, I’m already building scripts that feel like real QA test cases. 
 
 Yes, these are beginner projects, but they show how even the basics of Python connect to real QA work:  
 - Checking rules  
