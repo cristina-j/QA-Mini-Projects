@@ -26,4 +26,4 @@ A **function in Python** is a reusable block of code that performs a specific ta
 
 ## Demo
 Here's my `login_validation.py` script in action:
-<img width="2440" height="1423" alt="image" src="https://github.com/user-attachments/assets/a3432a19-05f0-4e3f-9db9-b57abb3fbdb5" />
+<img width="1440" height="700" alt="image" src="https://github.com/user-attachments/assets/a3432a19-05f0-4e3f-9db9-b57abb3fbdb5" />
