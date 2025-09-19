@@ -23,3 +23,5 @@ A **function in Python** is a reusable block of code that performs a specific ta
 - You define a function once with `def function_name():`  
 - You can then **call** it many times with different inputs.  
 - Functions make your code **cleaner, reusable, and easier to test**.    
+
+<img width="2440" height="1423" alt="image" src="https://github.com/user-attachments/assets/a3432a19-05f0-4e3f-9db9-b57abb3fbdb5" />
