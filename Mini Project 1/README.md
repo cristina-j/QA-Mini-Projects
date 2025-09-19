@@ -25,5 +25,13 @@ A **function in Python** is a reusable block of code that performs a specific ta
 - Functions make your code **cleaner, reusable, and easier to test**.    
 
 ## Demo
+
+
 Here's my `login_validation.py` script in action:
+
+<img width="1440" height="700" alt="image" src="https://github.com/user-attachments/assets/22a63878-666c-42a7-a34d-95391a55c69c" />
+
+Here's my `login_function.py` script in action: 
+
 <img width="1440" height="700" alt="image" src="https://github.com/user-attachments/assets/a3432a19-05f0-4e3f-9db9-b57abb3fbdb5" />
+
