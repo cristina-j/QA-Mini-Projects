@@ -11,7 +11,7 @@ This folder contains two versions of my **login validation** scripts in Python.
 ---
 
 ## Why I created these  
-I’m learning Python as part of my transition from **Manual QA → QA Engineer**. This project helped me practice:  
+I’m learning Python as part of my transition from **Manual QA → QA Engineer**. What I have learned next is what a function is and how to define it. This project helped me practice:  
 - Writing if/else logic to check valid vs invalid login attempts  
 - Thinking in terms of positive and negative test cases  
 - Understanding how to refactor code into functions for reusability  
