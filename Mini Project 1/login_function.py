@@ -10,4 +10,13 @@ def validate_login (username, password):
 
 # testing the function
 print(validate_login("validusername1", "validpassword1")) #True
+print()
 print(validate_login("wrongusername", "wrongpassword")) #False
+print()
+print(validate_login("", "")) #False since fields are empty
+print()
+print(validate_login("validusername1", "wrongpassword")) #False
+print()
+print(validate_login("wrongusername", "validpassword1")) #False
+print()
+
