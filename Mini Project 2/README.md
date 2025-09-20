@@ -31,3 +31,8 @@ But I realized that:
 Here's a screenshot of my script `locked_account_function.py` in action: 
 
 <img width="1645" height="598" alt="image" src="https://github.com/user-attachments/assets/4d9d3ec8-500c-4258-b5d4-5c6ff044e8c2" />
+
+Here's a screenshot of my script `locked_account.py` in action:
+
+<img width="1606" height="823" alt="image" src="https://github.com/user-attachments/assets/50dfe97a-1cd5-480e-ae80-ddf99089ce79" />
+
