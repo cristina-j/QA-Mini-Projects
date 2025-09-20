@@ -25,3 +25,9 @@ At first, I thought of only returning `True` or `False` from my function.
 But I realized that:  
 - `False` could mean either "wrong username/password" OR "account locked"  
 - I need more information than just `True/False` to show that the script is working correctly
+
+# Demo
+
+Here's a screenshot of my script `locked_account_function.py` in action: 
+
+<img width="1645" height="598" alt="image" src="https://github.com/user-attachments/assets/4d9d3ec8-500c-4258-b5d4-5c6ff044e8c2" />
