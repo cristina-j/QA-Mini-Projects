@@ -5,7 +5,7 @@
     #make sure there is at least one number 
     #make sure there is at least one special character
 
-def validate_password(password): validate_password
+def validate_password(password):
   
     #checks the length of the password
     if len(password) < 16:
