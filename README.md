@@ -20,7 +20,7 @@ Yes, these are beginner projects, but they show how even the basics of Python co
 - This one adds a lockout feature to the login script.  
 - If the user logs in and fails 3 times, the account gets locked.
 
-### 3. Mini Project 3: Validate Password
+### 3. Mini Project 3: Password Validation
 - File: `validate_password.py`  
 - A script that checks if a password meets some common rules:  
   - at least 16 characters  
