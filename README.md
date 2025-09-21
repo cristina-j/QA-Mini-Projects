@@ -15,7 +15,7 @@ Yes, these are beginner projects, but they show how even the basics of Python co
 - A little script that simulates a login system.  
 - It checks username + password and handles different scenarios: correct login, wrong username, wrong password, or empty fields.
 
-### 2. Mini Project 2: Locked Account
+### 2. Mini Project 2: Account Lockout
 -  File: `locked_account.py`  
 - This one adds a lockout feature to the login script.  
 - If the user logs in and fails 3 times, the account gets locked.
