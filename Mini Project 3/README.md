@@ -16,7 +16,7 @@ I wanted to practice writing a password policy checker similar to what real syst
 - Handling different negative cases (too short, no number, no special character)  
 - Refactoring into a function to make the code reusable and easier to test  
 
-#Demo
+# Demo
 
 Here is my `validate_password` script in action:
 
