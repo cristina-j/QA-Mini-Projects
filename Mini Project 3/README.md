@@ -18,8 +18,10 @@ I wanted to practice writing a password policy checker similar to what real syst
 
 #Demo
 
-Here is my `validate_password` script in action
+Here is my `validate_password` script in action:
 
 <img width="1645" height="845" alt="image" src="https://github.com/user-attachments/assets/1f1137a5-51ea-4d7c-929e-5db90ea96acc" />
 
+Here is my `validate_password_function.py` script in action:
 
+<img width="1655" height="828" alt="image" src="https://github.com/user-attachments/assets/8d725f3b-aeb5-458d-82b8-2937877e13c9" />
