@@ -15,3 +15,11 @@ I wanted to practice writing a password policy checker similar to what real syst
 - Using variables, loops, and if/else statements to enforce rules  
 - Handling different negative cases (too short, no number, no special character)  
 - Refactoring into a function to make the code reusable and easier to test  
+
+#Demo
+
+Here is my `validate_password` script in action
+
+<img width="1645" height="845" alt="image" src="https://github.com/user-attachments/assets/1f1137a5-51ea-4d7c-929e-5db90ea96acc" />
+
+
